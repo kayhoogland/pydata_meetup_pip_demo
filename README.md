@@ -1,4 +1,4 @@
-This repository contains the code to reproduce the demo I gave at the Pydata Meetup on the 18th of April 2019.
+This repository contains the code to reproduce the demo I gave during the Pydata Meetup on the 18th of April 2019.
 
 # Pip require virtualenv trick
 
